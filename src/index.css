@@ -1,0 +1,43 @@
+body {
+  font-family: "Courier Prime Code", monospace;
+  color: #333;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+body {
+  margin: 20px;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.card {
+  padding: 30px;
+  font-size: 18px;
+  border: 3px dotted #b1b1b1;
+  margin: 60px;
+  width: 600px;
+}
+
+.btn {
+  font-family: "Courier Prime Code", monospace;
+  font-weight: 700;
+  border: 1px solid #b1b1b1;
+  color: #333;
+  background-color: #fff;
+  padding: 15px;
+  font-size: 16px;
+}
+
+.hidden {
+  display: none;
+}
